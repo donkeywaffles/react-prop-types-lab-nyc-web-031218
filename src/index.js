@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Product from './components/Product';
+import {Product} from './components/Product';
 
 ReactDOM.render(
   <Product
